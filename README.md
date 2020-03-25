@@ -1,2 +1,2 @@
 # Time-Series-Analysis
-AR, MA, ARMA, ARIMA, GARCH, NGARCH 
+AR, MA, ARMA, ARIMA, GARCH 
